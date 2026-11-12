@@ -1,10 +1,10 @@
 ---
-name: Precast and Foam Works
+name: Central Florida Foam & Design, LLC
 business_info:
-  name: Precast and Foam Works
-  phone: '(727) 657-9195'
+  name: Central Florida Foam & Design, LLC
+  phone: '(352) 489-0006'
   phone_e164: '+17276579195'
-  address: '6612 Osteen Rd #332-333, New Port Richey, FL 34653'
+  address: '731 E. Overdrive Circle, Hernando, FL 34442'
   hours:
     monday_friday: '7:00 AM – 4:30 PM'
     saturday: '9:00 AM – 2:00 PM'
@@ -68,12 +68,12 @@ typography:
     lineHeight: 22px
 ---
 
-# Precast and Foam Works — Design System & Technical Specification
+# Central Florida Foam & Design, LLC — Design System & Technical Specification
 
 ## 1. Brand Identity & NAP (Single Source of Truth)
-- **Business Name:** Precast and Foam Works
-- **Phone:** (727) 657-9195 (`tel:+17276579195`)
-- **Address:** 6612 Osteen Rd #332-333, New Port Richey, FL 34653
+- **Business Name:** Central Florida Foam & Design, LLC
+- **Phone:** (352) 489-0006 (`tel:+17276579195`)
+- **Address:** 731 E. Overdrive Circle, Hernando, FL 34442
 - **Operating Hours:**
   - **Monday–Friday:** 7:00 AM – 4:30 PM
   - **Saturday:** 9:00 AM – 2:00 PM
